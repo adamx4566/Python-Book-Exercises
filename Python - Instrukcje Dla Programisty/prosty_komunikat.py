@@ -1,0 +1,2 @@
+komunikat = "Witaj"
+print(komunikat)
